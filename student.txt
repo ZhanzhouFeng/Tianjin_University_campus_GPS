@@ -1,0 +1,213 @@
+﻿0     青年教师公寓-教师公寓食堂
+1     综合体育馆-校医院
+2     行政服务中心
+3     工会-教职工服务中心
+4     31教学楼
+5     32教学楼
+6     33教学楼
+7     北洋广场
+8     东门
+9     体育公园
+10     34教学楼
+11     51、52、53、54教学组团
+12     50教学楼
+13     第二学生食堂
+14     49教学楼
+15     48教学楼
+16     47教学楼
+17     37教学楼
+18     35、36教学组团
+19     留园
+20     格园-留学生食堂
+21     知园-第六学生食堂-第一学生食堂
+22     诚园
+23     正园
+24     46教学楼
+25     45教学楼
+26     修园
+27     齐园
+28     第四学生食堂
+29     39、38教学组团
+30     55教学楼
+31     信网中心-能源站
+32     郑东图书馆
+33     44教学楼
+34     43教学楼
+35     42、41、40教学组团
+36     北门
+37     平园
+38     第三学生食堂
+39     第五学生食堂
+40     治园
+41     南门
+42     学生中心-太雷广场
+43     青年湖西岸
+44     1
+45     2
+46     3
+47     4
+48     5
+49     6
+50     7
+51     8
+52     9
+53     10
+54     11
+55     12
+56     13
+57     14
+58     15
+59     16
+60     17
+61     18
+62     19
+63     20
+64     21
+65     22
+66     23
+67     24
+68     25
+69     26
+70     27
+71     28
+72     29
+73     30
+74     31
+75     32
+76     33
+77     34
+78     35
+79     36
+80     37
+81     38
+82     39
+83     40
+84     41
+85     42
+86     43
+87     44
+88     45
+89     46
+90     47
+91     48
+92     49
+93     50
+94     51
+95     52
+96     53
+97     54
+98     55
+99     56
+100     57
+
+
+
+            {0  , inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, 50 ,  50  , 50,  inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, 0  , inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , 50  , 150, 50, inf , 100,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, 0  ,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, 50, 50,   50 ,50 ,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  ,inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf, 0 ,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, 50, 50,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf   ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf,inf, 0 ,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,50,51,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,20,    inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf,inf,inf, 0 ,inf,20,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,10,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf,   inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf,inf,inf,inf,0  ,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,100,50,50, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf,   inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf,inf,inf,20 ,inf,0  ,100, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,50 ,50 ,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf,inf,inf,inf,inf,inf,0 , inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,50, 50,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf,   inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+            {inf, inf, inf,inf,inf,inf,inf,inf,inf, 0  , inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,170,inf,inf,inf, 50 , 50, 50,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, 0  ,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,50 , 50, 20,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf ,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,0  , inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf ,  50 , inf,  50, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf, 50,  50, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  ,inf, inf,inf, inf, inf,inf  ,inf ,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, 0  ,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf,  50,  50, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf,  50,  50, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  ,inf, inf,inf, inf, inf,inf  ,inf ,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,0  ,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, 100, 100,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf , 20,  20,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,0  ,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,200,inf, inf,inf,inf,inf,inf,inf, inf, inf, 20 ,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf, inf,  20,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,0  ,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, 20 ,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf , inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,   20,  inf,inf,  inf, inf,inf}, 
+
+
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  0  ,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  20 ,  inf,20 ,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,0  ,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,50 , 50 ,inf,inf,inf,inf,inf, inf, inf, inf,   50 ,50 ,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,0  ,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, 50 ,50 ,inf,inf,inf,inf, inf, inf, inf,   inf,50 ,  50 ,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   0  ,10 ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,20 ,80 , inf, inf, inf,   inf,inf,  inf,   20 ,80 ,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   10 ,0  ,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,80 ,20 , inf, inf, inf,   inf,inf,  inf,   80 ,20 ,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,0  ,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,50 , 50 , inf, inf,   inf,inf,  inf,   inf,50 ,  50 ,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,0  ,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, 50 , 50 , inf,   inf,inf,  inf,   inf,inf,  50 ,50 , inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,0  ,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, 10 ,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, 50 ,  50 ,   50 ,50 ,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,0  ,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, 10 ,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  10 ,   inf,10 ,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,10 }, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,0  ,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, 10 ,  10 ,  inf,inf,  inf, inf,10 }, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,0  ,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,20 , 20 ,  20 ,  20 ,20 ,  inf , inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,0  ,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   20 ,20 ,  inf,   inf,inf,  inf,inf, 20 ,20 ,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,0  ,10 ,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,20 ,  100,   inf,inf,  inf,inf, inf,20 ,100, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,10 ,0  ,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,30 ,  90 ,   inf,inf,  inf,inf, inf,30 ,90 , inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,0  ,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  50 ,50 , inf,inf,inf, inf,  inf,  50 ,50 ,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  0  ,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   50 ,50 ,  100,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+
+           
+
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,0  , inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf ,inf  ,inf, inf,  inf,   60 ,50 ,  50 ,inf, 50 ,inf,60 , 30 ,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, 0  ,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, 50 ,inf,50 , inf,  inf,  inf,inf,  inf, inf,inf}, 
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  0  ,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, 50 ,50 ,inf , inf,  inf,  inf,inf,  inf,50 ,inf, inf, 50 ,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  0  , inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,50 ,50 , inf,  inf,  inf,inf,  inf, inf,inf, inf, 50 ,inf ,  50, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, 0  ,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, 20 ,  inf,  inf,inf,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  0  ,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  10 ,  20 ,10 ,  20 , inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+           {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  0  ,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,100,  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  30 ,10 , inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+        {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,0  , inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,inf, inf,100 , inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, 50 ,10 ,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+          {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, 0  ,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,inf, 20 ,20 , 10 , 10 ,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,0  ,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,inf, inf,inf, inf, inf, 20  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,0  ,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,200, inf,10 ,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,0  , inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  700,  inf,inf,inf, inf,inf, 700, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf}, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   80 ,20 ,50 ,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,100, inf, inf, inf,   inf,inf,  inf,   100,0  ,  50 ,inf, inf,inf,inf, inf,  inf,  120 ,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,50 ,50 ,inf,inf,inf,inf,inf,inf,inf,50 ,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, 100, inf, inf,   inf,inf,  inf,   inf,50 ,  0  ,100, inf,inf,inf, inf,  inf,  100,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,50 ,inf,inf,inf,inf,inf,inf,inf,50 ,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, 100, inf,   inf,inf,  inf,   inf,inf,  100,0  , inf,inf,inf, inf,  inf,  inf,inf  100, inf,inf, inf, inf,inf  ,inf, inf,  inf,   50 ,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+        {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,20 ,inf,inf,inf,  inf,inf, inf,  50 ,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   100,inf,  inf,   inf,inf,  inf,inf, 0  ,100,inf, inf,  inf,  inf,inf  inf, 100,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  50 ,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,20 ,20 ,30 ,inf,  inf,inf, inf,  50 ,  50 , inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,100,  inf,   inf,inf,  inf,inf, 100,0  ,120, inf,  inf,  inf,inf  inf, inf,inf, inf, 100,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,100,90,inf,  inf,inf, inf,  inf,  50 , inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  130,   inf,inf,  inf,inf, inf,120, 0  , inf,  inf,  inf,inf  inf, inf,inf, inf, inf,300  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, 20 ,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   100,inf,  inf,inf, inf,inf,inf, 0  ,  100,  inf,inf  inf, inf,inf, inf, inf,2000 ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  10 ,  inf,inf, inf,inf,inf,700, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, 100,  0  ,  50 ,100  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,50 ,  inf,inf, inf,  inf,  inf, inf,  20 ,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,120,  100,inf, inf,inf,inf, inf,  50 ,  0  ,inf  100, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,50 ,  inf,inf, inf,  inf,  inf, inf,  10 ,  100,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  100,  inf,0    50 , inf ,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,100, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  20 ,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  100,inf, inf,inf,inf, inf,  100,  inf,50   0  , inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  50 ,  inf, inf,  inf,  inf,inf, 20 ,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, 100,inf,inf, inf,  inf,  inf,inf  inf, 0  ,50 , inf, 200,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,100, 20 ,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, 50 ,0  , 200, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, 50 ,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, 10 ,inf,inf,700, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,200, 0  , 50 ,80   ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  50 ,  50 , inf,  inf,  inf,inf, 10 ,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,100,inf, inf,  inf,  inf,inf  inf, 200,inf, 50 , 0  ,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  250, inf,  inf,  inf,inf, inf,20 ,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,300,2000,  inf,  inf,inf  inf, inf,inf, 80 , inf,0    ,inf , inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,20 ,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf , inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf,inf, 60 , inf,60 ,inf,inf,50 ,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf , inf,inf,inf,inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf   ,0  , inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,20 ,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,50 ,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, 100, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf,  0  ,  50 ,   100,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,20 ,20 ,inf,  inf,inf,inf,   inf,inf,inf,inf,50 ,10 ,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, 50 ,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf,  50 ,   0  ,  inf,200,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,50 ,inf,inf,inf,inf,inf,inf,inf,  50 ,60 , inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,50 , inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, 100 ,  inf,   0 , 50 ,  120,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf },
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,50 ,10 ,inf,inf,inf,inf,inf,inf,  50 ,50 , inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  200,    50, 0  ,  130,inf, inf,inf,inf, inf,  inf,  inf,inf,  inf, inf,50 },
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  100,50 , inf,  inf,  inf, inf,  inf,  30 ,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   120,130 ,   0  ,50 ,300,inf,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  10 ,inf, inf,inf,200,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,100  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,    50, 0  ,inf,300,inf, inf,  inf,  inf,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,50 , 50 ,  inf,  inf, inf,  inf,  inf,50 , inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,   300, inf, 0  ,50 ,100, inf,  inf,  inf,inf, 60 , inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,10 , inf,inf,10 ,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf, 300,  50 ,0  ,inf, inf,  inf,  inf,inf,  inf, 60,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,20 ,inf,inf,inf,inf,  inf,60 , 50 ,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, 100,inf,  0  , 30 ,  inf,  50 ,inf,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,10 ,20 ,inf,inf,inf,inf,  inf,30 , inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,  30 , 0  ,  100,  inf,inf,  inf, inf,50},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,20 ,  20 ,inf,inf,   inf,inf,inf,inf,inf,inf,10 ,20 ,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, 50 ,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, 100,    0  ,  inf,50 ,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,20 ,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, 50 ,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,50 , inf,  inf,    0  ,100,  100, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  20 ,inf,inf,   inf,inf,inf,inf,inf,inf,inf,20 ,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   50 ,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  50,  100,  0  ,  inf, inf,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, 60 ,inf,inf, inf,  inf,  100,inf,  0  , 50 ,inf},
+         {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, inf,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,50 , inf, inf,inf  ,inf, inf,  inf,   inf,inf,  inf,inf, inf,60 ,inf, inf,  inf,  inf,inf,  50 , 0  ,inf},
+        {inf, inf, inf,inf,inf,inf,inf,inf,inf, inf, inf,inf, inf,inf,inf,inf,  inf,inf,inf,   inf,inf,inf,inf,inf,10 ,10 ,inf,inf,inf,inf,inf,  inf,inf, inf,  inf,  inf, inf,  inf,  inf,inf, inf,inf,inf,inf, inf , inf , inf, inf, inf, inf,inf,inf,inf,inf,inf, inf,inf,inf,inf,inf,inf, inf, inf, 100,   inf,inf,  inf,   inf,inf,  inf,inf, inf,inf,inf, inf,  inf,  inf,inf  inf, inf,inf, inf, inf,inf  ,inf, inf,  inf,   inf,50 ,  inf,inf, inf,inf,inf, 50 ,  inf,  inf,inf,  inf, inf,0  },
