@@ -1,4 +1,4 @@
-# Tianjin_University_campus_GPS
+# Tianjin_University_campus_map
 &emsp;基于Jfram使用dijstra算法实现的天大新校区导航软件
 
 ![运行效果图](resource/result.png "效果图")
